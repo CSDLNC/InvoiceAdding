@@ -58,3 +58,6 @@ H:\Project Java\HotelManagementProject\SourceCode\HotelManagement\HotelManagemen
 H:\Project Java\HotelManagementProject\SourceCode\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Signin.resources
 H:\Project Java\HotelManagementProject\SourceCode\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Statistic.resources
 H:\Project Java\HotelManagementProject\SourceCode\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.Cache
+D:\Projectc#\InvoiceAdding\SourceCode\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+D:\Projectc#\InvoiceAdding\SourceCode\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+D:\Projectc#\InvoiceAdding\SourceCode\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
